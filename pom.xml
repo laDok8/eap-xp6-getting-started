@@ -43,7 +43,7 @@
 
     <properties>
         <!-- The versions for the BOMs, Packs and Plugins -->
-        <version.bom.ee>8.0.2.GA-redhat-00008</version.bom.ee>
+        <version.bom.ee>8.1.0.Beta-redhat-00006</version.bom.ee>
         <version.bom.microprofile>5.0.0.GA-redhat-00009</version.bom.microprofile>
         <version.plugin.wildfly-jar>9.0.1.Final-redhat-00011</version.plugin.wildfly-jar>
     </properties>
@@ -119,7 +119,7 @@
                                 <channel>
                                     <manifest>
                                         <groupId>org.jboss.eap.channels</groupId>
-                                        <artifactId>eap-8.0</artifactId>
+                                        <artifactId>eap-8.1</artifactId>
                                     </manifest>
                                 </channel>
                                 <channel>
